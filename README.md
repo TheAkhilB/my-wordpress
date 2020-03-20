@@ -1,2 +1,2 @@
 # my-wordpress
-my blog.
+my blog using helm charts.
